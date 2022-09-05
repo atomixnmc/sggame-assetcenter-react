@@ -66,6 +66,15 @@ function introSGGameAssetCenter() {
               SGGame AssetCenter is the collection of tools/ assets useful for
               game development!
             </h5>
+            <div>
+              <ul>
+                <li>Download 3d Models, textures, sprites</li>
+                <li>Preview/ edit assets in browser</li>
+                <li>Share with others</li>
+                <li>Connect to Unity/Unreal</li>
+                <li>Connect to Mobile VR in Android/iOS</li>
+              </ul>
+            </div>
           </Col>
           <Col>
             <img
