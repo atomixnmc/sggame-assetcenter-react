@@ -1,0 +1,14 @@
+.asset-cell{
+  border: 1px solid #333;
+  text-align: left;
+  padding: 2px;
+  margin-bottom: 8px;
+  overflow: hidden;
+
+  &:hover {
+    border: 1px solid rgb(94, 196, 243);
+    // transform: scale(1.02);
+    // transition: all .2s ease-in-out;
+    box-shadow: 0px 0px 8px 8px rgba(42, 201, 223, 0.3) !important;
+  }
+}
