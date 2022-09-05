@@ -70,6 +70,9 @@ function introSGGameAssetCenter() {
               <ul>
                 <li>Download 3d Models, textures, sprites</li>
                 <li>Preview/ edit assets in browser</li>
+                <li>Share with others</li>
+                <li>Connect to Unity/Unreal</li>
+                <li>Connect to Mobile VR in Android/iOS</li>
               </ul>
             </div>
           </Col>
